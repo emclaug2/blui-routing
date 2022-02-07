@@ -22,7 +22,6 @@
     "@angular/platform-browser-dynamic": "13.2.1",
     "@angular/router": "13.2.1",
     "@brightlayer-ui/angular-components": "beta",
-    "@brightlayer-ui/angular-themes": "beta",
     "@brightlayer-ui/colors": "^3.0.1",
     "core-js": "^2.5.0",
     "rxjs": "~6.6.0",
